@@ -8,3 +8,6 @@ h1{color:grey;}
   border-radius: 25px;
   margin: auto;
 }
+#displayRate{
+  width: 50px;
+}
