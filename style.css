@@ -1,4 +1,10 @@
 body {background-color:tan;}
-h1{color:green;}
-
-
+h1{color:grey;}
+.maindiv{
+  background: white;
+  color: black;
+  width: 300px;
+  padding: 20px;
+  border-radius: 25px;
+  margin: auto;
+}
